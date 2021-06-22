@@ -2,6 +2,7 @@
 Two Javascript tasks
 
 Task 1: Create a function which takes two color inputs (Hexadecimal ) and returns the average color.
+
 Task 2: Implement a function that takes such an array and generates the string of HTML markup.
 
   • Empty tags should be self-closing.
