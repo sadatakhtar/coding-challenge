@@ -1,4 +1,4 @@
-# coding-challenge
+# coding-challenge solutions
 Two Javascript tasks
 
 Task 1: Create a function which takes two color inputs (Hexadecimal ) and returns the average color.
